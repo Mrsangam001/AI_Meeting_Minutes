@@ -1,7 +1,5 @@
 # AI Meeting Minutes System — Soft Copy Submission
 
-**Mini Project | School of Computer Engineering | KIIT Deemed to be University**
-
 ---
 
 ## 📁 Folder Structure
